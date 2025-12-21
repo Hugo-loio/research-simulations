@@ -12,12 +12,15 @@ Since the projects were created for personal use, there is a lack of documentati
  
 * [ed-circuits](https://github.com/Hugo-loio/ed-circuits) - A Julia package for the exact diagonalization (ED) simulation of quantum circuits [^magic25][^mipt_mps24].
 * [monitored-fermions](https://github.com/Hugo-loio/monitored-fermions) - A Python package for simulating monitored fermionic systems (both Gaussian and interacting) [^syk25][^purification23].
-* [stim-deep-thermalization](https://github.com/Hugo-loio/stim-deep-thermalization) - A python package to compute projected ensembles and frame potentials using the stabilizer formalism [^magic25].
-* [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools.
-Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters [^magic25][^correlations25][^mipt_mps24][^syk25].
+* [stim-deep-thermalization](https://github.com/Hugo-loio/stim-deep-thermalization) - A Python package to compute projected ensembles and frame potentials using the stabilizer formalism [^magic25].
+* [spin-s-ed](https://github.com/Hugo-loio/spin-s-ed) - A small Python package for generating the spin operators and Hamiltonians for systems of generic spin-s particles [^syk25]
 
 ## Master's thesis project
 * [TIM](https://github.com/Hugo-loio/TIM) - Topological Insulator Models (TIM) provides a C++ library for tight-binding models of topological insulators [^totai24].
+
+## Extra tools
+* [lasap](https://github.com/Hugo-loio/lasap) - A package with an interface for Python, Julia, and C++ to create a uniform data storage system with built-in post-processing tools.
+Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters [^magic25][^correlations25][^mipt_mps24][^syk25].
 
 ### List of relevant publications
 [^magic25]: **H Lóio, G Lami, L Leone, M McGinley, X Turkeshi, J De Nardis,
