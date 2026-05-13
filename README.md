@@ -10,7 +10,8 @@ Since the projects were created for personal use, there is a lack of documentati
 
 ## PhD projects
  
-* [ed-circuits](https://github.com/Hugo-loio/ed-circuits) - A Julia package for the exact diagonalization (ED) simulation of quantum circuits [^magic25][^mipt_mps24].
+* [ed-circuits](https://github.com/Hugo-loio/ed-circuits) - A Julia package for the exact diagonalization (ED) simulation of quantum circuits [^markov26][^magic25][^mipt_mps24].
+* [marqu](https://github.com/Hugo-loio/ed-circuits) - A C++/Python package for simulating the dynamics of quantum spin chains mapped to a continuous-time Markov chain [^markov26].
 * [monitored-fermions](https://github.com/Hugo-loio/monitored-fermions) - A Python package for simulating monitored fermionic systems (both Gaussian and interacting) [^syk25][^purification23].
 * [iMPS](https://github.com/Hugo-loio/iMPS) - A Python package for simulating infinite matrix product state (iMPS) evolution [^correlations25]
 * [stim-deep-thermalization](https://github.com/Hugo-loio/stim-deep-thermalization) - A Python package to compute projected ensembles and frame potentials using the stabilizer formalism [^magic25].
@@ -25,6 +26,10 @@ Since the projects were created for personal use, there is a lack of documentati
 Does not perform simulations, but aids in data handling, especially for parallelized tasks running in HPC clusters.
 
 ### List of relevant publications
+[^markov26]: **H Lóio, J De Nardis, T Jin,
+"Quantum-to-Classical Computability Transition via Negative Markov Chains",
+[arXiv:2604.19889](https://doi.org/10.48550/arXiv.2604.19889) (2026)**
+
 [^magic25]: **H Lóio, G Lami, L Leone, M McGinley, X Turkeshi, J De Nardis,
 "Quantum State Designs via Magic Teleportation",
 [arXiv:2510.13950](https://doi.org/10.48550/arXiv.2510.13950) (2025)**
